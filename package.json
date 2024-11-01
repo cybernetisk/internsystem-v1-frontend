@@ -41,7 +41,7 @@
     "immutable": "3.8.2",
     "json-loader": "0.5.7",
     "mathjs": "9.4.4",
-    "mini-css-extract-plugin": "1.6.2",
+    "mini-css-extract-plugin": "2.9.2",
     "moment": "2.29.1",
     "moment-timezone": "0.5.33",
     "node-sass": "5.0.0",
