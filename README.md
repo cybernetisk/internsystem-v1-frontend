@@ -1,5 +1,10 @@
 # CYBs internsystem (frontend)
 
+## Archived
+
+As of August 2024, this repository has been replaced by a new implementation of cyb.no.
+
+
 | Master | Test |
 | --- | --- |
 | [![Build Status](https://travis-ci.org/cybernetisk/internsystem-frontend.svg?branch=master)](https://travis-ci.org/cybernetisk/internsystem-frontend) | [![Build Status](https://travis-ci.org/cybernetisk/internsystem-frontend.svg?branch=test)](https://travis-ci.org/cybernetisk/internsystem-frontend) |
